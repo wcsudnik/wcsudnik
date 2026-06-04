@@ -1,7 +1,7 @@
-## Hi there\
+## Hi there
 I'm a student at Indiana University studying Computer Engineering\
 I'm mostly programming in C and Python, but working on C++\
-Currently working on building flight control software for my RC plane\
+Currently working on building flight control software for my RC plane
 <!--
 **wcsudnik/wcsudnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
