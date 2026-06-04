@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm a student at Indiana University studying Computer Engineering
+Mostly programming in C and Python
 <!--
 **wcsudnik/wcsudnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
